@@ -1,2 +1,2 @@
 # 100_days_code
-## HELLO GREETINGS ##
+##  day 001 //HELLO GREETINGS ##
