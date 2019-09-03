@@ -1,0 +1,9 @@
+# Read an integer:
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+f = int(input())
+# Print a value:
+print((d-a)*3600+(e-b)*60+(f-c)*1)
