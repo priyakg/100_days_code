@@ -1,2 +1,2 @@
-# 100_days_code
-####  day 01 ####
+# 100_days_code_python
+####  Day001-HELLO GREETING ####
