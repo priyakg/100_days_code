@@ -1,0 +1,10 @@
+# Read an integer:
+a = int(input())
+# Print a value:
+sum = 0
+while(a>0):
+  dig = a%10
+  sum = sum + dig
+  a = a//10
+  
+print(sum)
